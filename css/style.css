@@ -1,0 +1,180 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+header
+{
+    margin: 25px;
+}
+#logo img
+{
+    width: 3%;
+    float: left;
+    margin-right: 1%;
+}
+#title h1
+{
+    font-size: 30px;;
+}
+#title p {
+    padding-top: 4px;
+    color: gray;
+    font-size: 10px;
+    padding-left: 2.9%;
+}
+#social-media {
+    float: right;
+    position: relative;
+    bottom: 44px;
+}
+#social-media ul li
+{
+    display:inline-block;
+    padding: 0.005%;
+}
+
+#hero-slider {
+    margin: auto 25px;
+}
+
+
+#right-icon
+{
+    margin-right: 15px;
+}
+.stripe-lines
+{
+    margin-top: 20px;
+    height: 10px;
+    width:100%;
+    background-image: url(../img/hr-img.png)
+}
+.article-title h1
+{
+    font-size: 35px;
+    font-weight: bold;
+}
+.article-date p
+{
+    font-size: 10px;
+    color: gray;
+    padding-left: 0.5%;
+    padding-top: 2px;
+}
+#print-icon a{
+    text-decoration: none;
+    color: gray;
+    
+}
+#print-icon {
+    float: right;
+    width: 7%;
+    left: 23px;
+    position: relative;
+    bottom: 30px;
+}
+#hero-slider img
+{
+    width: 100%;;
+}
+section
+{
+    margin: 25px;
+}
+
+section p
+{
+    color: gray;
+    text-align: justify;
+    padding-top: 20px;
+}
+
+
+
+#materials {
+    padding: 7%;
+    background-image: url(../img/list-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 350px;
+}
+input [type="checkbox"]
+{
+    
+    margin-top: 20px;
+}
+label
+{
+   color:  #973717}
+.metrials-1 {
+    width: 55%;
+    display: inline-block;
+}
+.metirals-2
+{
+    display: inline-block
+}
+label {
+    font-family: 'Segoe UI', 'Tahoma', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.user-image img
+{
+    float: left;
+    padding-right: 8px;
+}
+
+.user-image
+{
+    width: 80%;
+}
+.share-btn
+{
+    position: relative;
+    bottom: 30px;
+    float: right;
+}
+.checkboxs
+{
+    margin-bottom:20px;
+}
+.share-btn a
+{
+    text-decoration: none;
+    color: #ffffff;
+    background-color:#bc7058 ;
+    border: 1px solid #4e2f25 ;
+    padding: 15px;
+
+}
+.authorname h1
+{
+    font-weight: bolder;
+}
+.share-btn a:hover
+{
+    background-color: maroon;
+}
+
+.footer-icon img
+{
+    position: relative;
+    left:48%;
+    top: 25px;
+}
+.copyrights {
+    color: gray;
+    margin-top: 30px;
+    text-align: center;
+}
+.copyrights h1
+{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.copyrights p
+{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
